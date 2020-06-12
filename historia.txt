@@ -1,4 +1,4 @@
 Esta es la prueba definitiva despues del cambio
 para ver si los pinshis cambios se reflejan
-y graban en Git Bash :3
+y graban en Git Bash :3 tengo 34
 Oshe cy
